@@ -46,19 +46,19 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **F21T1A3**: □
 
-**F21T1A4**: LA / LA A.2.1 A.4.10 / A.9.6 LA
+**F21T1A4**: LA / LA A.2.1 A.4.10 / A.9.6 LA A.8.5 A.4.8
 
 **F21T1A5**: □
 
-**F21T2A1**: TODO
+**F21T2A1**: A.10.12 A.10.13 / Z.9.6 Z-59-(Eulersche φ-Funktion) Z.11.6 Z.2.6 / Z.12.9 A.12.3 A.12.4
 
 **F21T2A2**: □
 
-**F21T2A3**: TODO
+**F21T2A3**: Z.2.4 / LA Z.2.4
 
 **F21T2A4**: □
 
-**F21T2A5**: TODO
+**F21T2A5**: LA A.12.6 / Z.12.1 Z.10.2 Z.10.11 Z.7.13 LA
 
 **F21T3A1**: □
 
