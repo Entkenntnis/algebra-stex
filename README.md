@@ -12,11 +12,11 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T1A1**: Z.5.3 / Z.11.5, Z.11.4, Z.11.6, Z.11.9 / Hilbertschen Basissatz (Z, S.77), Beispiel 2 (Z, S.32), Z.10.2, Z.11.10 / Z.5.3 / Z.5.3 
 
-**H21T1A2**: *Beweisidee Minimaleigenschaft arithmetisches Mittel ([KIT](https://publikationen.bibliothek.kit.edu/1000122606))*
+**H21T1A2**: LA
 
 **H21T1A3**: Z.10.3 / Z.10.3 / Z.12.1
 
-**H21T1A4**: A.4.19, A.2.8 / A.2.1, A.2.3, A.1.11, A.6.3, *Inneres Semidirektes Produkt ([Wikipedia](https://de.wikipedia.org/wiki/Semidirektes_Produkt#Inneres_semidirektes_Produkt))*, A.4.12
+**H21T1A4**: A.4.19, A.2.8 / A.2.1, A.2.3, A.1.11, A.6.3, A.4.16, A.4.12
 
 **H21T1A5**: ---
 
