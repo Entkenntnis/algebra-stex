@@ -12,7 +12,7 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T1A1**: Z.5.3 / Z.11.5, Z.11.4, Z.11.6, Z.11.9 / Hilbertschen Basissatz (Z, S.77), Beispiel 2 (Z, S.32), Z.10.2, Z.11.10 / Beweisidee Lemma von Bézout Umkehrung (Wikipedia) / Z.5.3 
 
-**H21T1A2**: Bilinearform (Wikipedia), Beweisidee Minimaleigenschaft arithmetisches Mittel (https://publikationen.bibliothek.kit.edu/1000122606)
+**H21T1A2**: Bilinearform (Wikipedia), Beweisidee Minimaleigenschaft arithmetisches Mittel ([KIT](https://publikationen.bibliothek.kit.edu/1000122606))
 
 **H21T1A3**: Z.10.3 / Z.10.3 / Z.12.1
 
