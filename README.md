@@ -8,6 +8,8 @@ Referenz Skript Algebra: https://www.mathematik.uni-muenchen.de/~gerkmann/skript
 
 Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/zahlenth.pdf
 
+LA = Lineare Algebra (kein Skript)
+
 ## Tags
 
 **H21T1A1**: Z.5.3 / Z.11.5 Z.11.4 Z.11.6 Z.11.9 / Z-77-(Hilbertschen Basissatz) Z-32-(Beispiel 2) Z.10.2 Z.11.10 / Z.5.3 / Z.5.3 
