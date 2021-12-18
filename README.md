@@ -64,7 +64,7 @@ LA = Lineare Algebra (kein Skript)
 
 **F21T3A1**: 🚧
 
-**F21T3A2**: TODO
+**F21T3A2**: A.15.3 / A.14.1 A.12.4 A.18.2 / - / ... / ...
 
 **F21T3A3**: TODO
 
