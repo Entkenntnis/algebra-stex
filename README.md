@@ -20,7 +20,7 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T1A5**: ---
 
-**H21T2A1**: TODO
+**H21T2A1**: A.3.3 / A.9.5, A.3.10 / S3 (A, S.28) / A.1.3
 
 **H21T2A2**: ---
 
@@ -28,7 +28,7 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T2A4**: ---
 
-**H21T2A5**: TODO
+**H21T2A5**: A.9.5, A.1.11 / A.8.12, Zykelschreibweise (A, S.83), A.9.5, A.3.10, A.4.10, A.2.4, A.2.11
 
 **H21T3A1**: TODO
 
