@@ -19,3 +19,24 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 **H21T1A4**: A.4.19, A.2.8 / A.2.1, A.2.3, A.1.11, A.6.3, Inneres Semidirektes Produkt (Wikipedia), A.4.12
 
 **H21T1A5**: ---
+
+**H21T2A1**: TODO
+
+**H21T2A2**: ---
+
+**H21T2A3**: ---
+
+**H21T2A4**: ---
+
+**H21T2A5**: TODO
+
+**H21T3A1**: TODO
+
+**H21T3A2**: TODO
+
+**H21T3A3**: ---
+
+**H21T3A4**: ---
+
+**H21T3A5**: ---
+
