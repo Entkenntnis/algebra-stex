@@ -40,13 +40,13 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T3A5**: ---
 
-**F21T1A1**: / Z-64-(Normfunktion) / Z.10.8 Z.10.11 Z.10.4 
+**F21T1A1**: _ / Z-64-(Normfunktion) / Z.10.8 Z.10.11 Z.10.4 
 
 **F21T1A2**: A.1.6 / A.1.6
 
 **F21T1A3**: ---
 
-**F21T1A4**: LA / LA A.2.1 A.4.10 / A.9.6 LA ???
+**F21T1A4**: LA / LA A.2.1 A.4.10 / A.9.6 LA
 
 **F21T1A5**: ---
 
