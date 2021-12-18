@@ -40,3 +40,33 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 **H21T3A5**: ---
 
+**F21T1A1**: TODO
+
+**F21T1A2**: TODO
+
+**F21T1A3**: ---
+
+**F21T1A4**: TODO
+
+**F21T1A5**: ---
+
+**F21T2A1**: TODO
+
+**F21T2A2**: ---
+
+**F21T2A3**: TODO
+
+**F21T2A4**: ---
+
+**F21T2A5**: TODO
+
+**F21T3A1**: ---
+
+**F21T3A2**: TODO
+
+**F21T3A3**: TODO
+
+**F21T3A4**: ---
+
+**F21T3A5**: TODO
+
