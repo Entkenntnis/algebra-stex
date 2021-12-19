@@ -41,6 +41,12 @@ counterArr.sort((a, b) => {
   }
 })
 
+let output = `${new Date()}\n\n`
+
 for (entry of counterArr) {
-  console.log(`-- ${entry.count} --   ${entry.tag}`)
+  output += `-- ${entry.count} --   ${entry.tag}\n`
 }
+
+require('fs').writeFileSync('./statistics.txt', output)
+
+console.log(output)
