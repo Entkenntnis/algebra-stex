@@ -4,9 +4,9 @@ Taggen von Algebra-Aufgaben nach abgefragter Theorie
 
 Quelle für Beweise: https://www.mathematik.uni-muenchen.de/~gerkmann/stexaufg/
 
-Referenz Skript Algebra: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/algebra.pdf
+Referenz Skript Algebra: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/algebra.pdf (WiSe 2018/19)
 
-Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/zahlenth.pdf
+Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/zahlenth.pdf (WiSe 2018/19)
 
 LA = Lineare Algebra (kein Skript)
 
