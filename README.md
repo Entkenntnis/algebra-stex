@@ -18,7 +18,7 @@ Legende:
 - `/` = Teilaufgabentrenner
 - `-` = keine Tags
 - `...` = noch zu taggen
-- 🚧 = Aufgabe noch nicht gearbeitet
+- 🚧 = Aufgabe noch nicht bearbeitet
 
 ## Tags
 
