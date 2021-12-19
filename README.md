@@ -10,7 +10,7 @@ Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/
 
 Legende:
 
-- LA = Lineare Algebra (kein Skript)
+- LA = Lineare Algebra (kein Skript, nicht genauer getagt)
 - A.XX.YY = Algebra-Skript (XX.YY)
 - A-XX-(YY) = Algebra-Skript, Seite XX, Begriff YY
 - Z.XX.YY = Zahlentheorie-Skript (XX.YY)
