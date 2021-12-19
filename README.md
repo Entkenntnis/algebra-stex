@@ -17,7 +17,6 @@ Legende:
 - Z-XX-(YY) = Zahlentheorie-Skript, Seite XX, Begriff YY
 - `/` = Teilaufgabentrenner
 - `-` = keine Tags
-- `...` = noch zu taggen
 - 🚧 = Aufgabe noch nicht bearbeitet
 
 Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/statistics.txt
