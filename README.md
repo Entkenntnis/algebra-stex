@@ -124,17 +124,17 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F20T1A5**: 🚧
 
-**F20T2A1**: TODO
+**F20T2A1**: LA / LA
 
-**F20T2A2**: TODO
+**F20T2A2**: A.15.3 Z.13.1 / Z.13.7 Z.13.4 Z.13.7
 
 **F20T2A3**: 🚧
 
-**F20T2A4**: TODO
+**F20T2A4**: A.1.11 / - / -
 
 **F20T2A5**: 🚧
 
-**F20T3A1**: TODO
+**F20T3A1**: A.4.11 / A.1.11 / A.4.17 / -
 
 **F20T3A2**: TODO
 
