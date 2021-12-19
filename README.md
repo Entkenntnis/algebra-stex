@@ -8,7 +8,13 @@ Referenz Skript Algebra: https://www.mathematik.uni-muenchen.de/~gerkmann/skript
 
 Referenz Skript Zahlentheorie: https://www.mathematik.uni-muenchen.de/~gerkmann/skripten/zahlenth.pdf (WiSe 2018/19)
 
-LA = Lineare Algebra (kein Skript)
+Legende:
+
+- LA = Lineare Algebra (kein Skript)
+- A.XX.YY = Algebra-Skript (XX.YY)
+- A-XX-(YY) = Algebra-Skript, Seite XX, Begriff YY
+- Z.XX.YY = Zahlentheorie-Skript (XX.YY)
+- Z-XX-(YY) = Zahlentheorie-Skript, Seite XX, Begriff YY
 
 ## Tags
 
