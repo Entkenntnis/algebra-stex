@@ -98,7 +98,7 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H20T2A2**: A.8.2 LA / A.8.5 A.4.8
 
-**H20T2A3**: A.12.6 A.12.4 A.15.4 A.15.9 A.16.1 
+**H20T2A3**: A.12.6 A.12.4 A.15.4 A.15.9 A.16.1 A.18.1
 
 **H20T2A4**: 🚧
 
