@@ -1,6 +1,6 @@
-# algebra-stex
+# Staatsexamen Bayern Mathematik vertieft Algebra
 
-Taggen von Algebra-Aufgaben nach abgefragter Theorie
+Taggen von Aufgaben nach abgefragter Theorie
 
 Quelle für Beweise: https://www.mathematik.uni-muenchen.de/~gerkmann/stexaufg/
 
