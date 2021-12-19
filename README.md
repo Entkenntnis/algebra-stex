@@ -20,6 +20,8 @@ Legende:
 - `...` = noch zu taggen
 - 🚧 = Aufgabe noch nicht bearbeitet
 
+Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/statistics.txt
+
 ## Tags
 
 **H21T1A1**: Z.5.3 / Z.11.5 Z.11.4 Z.11.6 Z.11.9 / Z-77-(Hilbertschen Basissatz) Z-32-(Beispiel 2) Z.10.2 Z.11.10 / Z.5.3 / Z.5.3 
@@ -74,11 +76,70 @@ Legende:
 
 **F21T3A1**: 🚧
 
-**F21T3A2**: A.15.3 / A.14.1 A.12.4 A.18.2 / - / ... / ...
+**F21T3A2**: A.15.3 / A.14.1 A.12.4 A.18.2 / - / A.12.4 A.15.9 A.4.8 A.12.3 / A.18.2 A.14.1
 
-**F21T3A3**: TODO
+**F21T3A3**: A.7.7 A.4.21 / A-33-(einfach) A-34-(Kerne von Homomorphismen)
 
 **F21T3A4**: 🚧
 
-**F21T3A5**: TODO
+**F21T3A5**: A.15.6 A.12.4 A.15.9 LA / A.15.9
 
+**H20T1A1**: 🚧
+
+**H20T1A2**: Z.2.5 Z.10.2 Z.10.11 Z.7.13 / Z.2.8
+
+**H20T1A3**: LA / LA / LA
+
+**H20T1A4**: A.10.14 A.10.15 / A.10.12 / A.4.13 A.4.19 
+
+**H20T1A5**: 🚧
+
+**H20T2A1**: 🚧
+
+**H20T2A2**: A.8.2 LA / A.8.5 A.4.8
+
+**H20T2A3**: A.12.6 A.12.4 A.15.4 A.15.9 A.16.1 
+
+**H20T2A4**: 🚧
+
+**H20T2A5**: TODO
+
+**H20T3A1**: TODO
+
+**H20T3A2**: 🚧
+
+**H20T3A3**: TODO
+
+**H20T3A4**: 🚧
+
+**H20T3A5**: TODO
+
+**F20T1A1**: TODO
+
+**F20T1A2**: TODO
+
+**F20T1A3**: 🚧
+
+**F20T1A4**: TODO
+
+**F20T1A5**: 🚧
+
+**F20T2A1**: TODO
+
+**F20T2A2**: TODO
+
+**F20T2A3**: 🚧
+
+**F20T2A4**: TODO
+
+**F20T2A5**: 🚧
+
+**F20T3A1**: TODO
+
+**F20T3A2**: TODO
+
+**F20T3A3**: 🚧
+
+**F20T3A4**: 🚧
+
+**F20T3A5**: TODO
