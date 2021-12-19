@@ -20,6 +20,8 @@ Legende:
 - `...` = noch zu taggen
 - 🚧 = Aufgabe noch nicht bearbeitet
 
+Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/statistics.txt
+
 ## Tags
 
 **H21T1A1**: Z.5.3 / Z.11.5 Z.11.4 Z.11.6 Z.11.9 / Z-77-(Hilbertschen Basissatz) Z-32-(Beispiel 2) Z.10.2 Z.11.10 / Z.5.3 / Z.5.3 
