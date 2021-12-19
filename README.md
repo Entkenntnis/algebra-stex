@@ -102,13 +102,13 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H20T2A4**: 🚧
 
-**H20T2A5**: TODO
+**H20T2A5**: A.16.9 A.16.13 A.16.12 A.16.3 A.17.5 A.11.9 A.17.8 A.9.1
 
-**H20T3A1**: TODO
+**H20T3A1**: Z.12.1 / - / Z.12.8 Z.10.2 Z.10.11 Z.7.13 Z.8.5 
 
 **H20T3A2**: 🚧
 
-**H20T3A3**: TODO
+**H20T3A3**: - / - / -
 
 **H20T3A4**: 🚧
 
