@@ -135,70 +135,70 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F20T3A1**: A.4.11 / A.1.11 / A.4.17 / -
 
-**F20T3A2**: TODO
+**F20T3A2**: Z.9.8 / - / Z.8.5
 
 **F20T3A3**: 🚧
 
 **F20T3A4**: 🚧
 
-**F20T3A5**: TODO
+**F20T3A5**: - / Z.12.9
 
-**H19T1A1**: 
+**H19T1A1**: TODO
 
-**H19T1A2**: 
+**H19T1A2**: TODO
 
-**H19T1A3**: 
+**H19T1A3**: 🚧
 
-**H19T1A4**:  
+**H19T1A4**:  TODO
 
-**H19T1A5**: 
+**H19T1A5**: 🚧
 
-**H19T2A1**: 
+**H19T2A1**: TODO
 
-**H19T2A2**: 
+**H19T2A2**: 🚧
 
-**H19T2A3**: 
+**H19T2A3**: TODO
 
-**H19T2A4**: 
+**H19T2A4**: 🚧
 
-**H19T2A5**: 
+**H19T2A5**: TODO
 
-**H19T3A1**:  
+**H19T3A1**: TODO
 
-**H19T3A2**: 
+**H19T3A2**: TODO
 
-**H19T3A3**: 
+**H19T3A3**: 🚧
 
-**H19T3A4**: 
+**H19T3A4**: TODO
 
-**H19T3A5**: 
+**H19T3A5**: 🚧
 
-**F19T1A1**: 
+**F19T1A1**: TODO
 
-**F19T1A2**: 
+**F19T1A2**: TODO
 
-**F19T1A3**: 
+**F19T1A3**: 🚧
 
-**F19T1A4**: 
+**F19T1A4**: 🚧
 
-**F19T1A5**: 
+**F19T1A5**: TODO
 
-**F19T2A1**: 
+**F19T2A1**: TODO
 
-**F19T2A2**: 
+**F19T2A2**: 🚧
 
-**F19T2A3**: 
+**F19T2A3**: TODO
 
-**F19T2A4**: 
+**F19T2A4**: 🚧
 
-**F19T2A5**: 
+**F19T2A5**: TODO
 
-**F19T3A1**: 
+**F19T3A1**: TODO
 
-**F19T3A2**: 
+**F19T3A2**: TODO
 
-**F19T3A3**: 
+**F19T3A3**: 🚧
 
-**F19T3A4**: 
+**F19T3A4**: TODO
 
-**F19T3A5**: 
+**F19T3A5**: 🚧
