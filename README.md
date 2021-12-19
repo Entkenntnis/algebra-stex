@@ -86,19 +86,19 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H20T1A1**: 🚧
 
-**H20T1A2**: ... / ...
+**H20T1A2**: Z.2.5 Z.10.2 Z.10.11 Z.7.13 / Z.2.8
 
 **H20T1A3**: LA / LA / LA
 
-**H20T1A4**: ... / ... / ... 
+**H20T1A4**: A.10.14 A.10.15 / A.10.12 / A.4.13 A.4.19 
 
 **H20T1A5**: 🚧
 
 **H20T2A1**: 🚧
 
-**H20T2A2**: ... / ...
+**H20T2A2**: A.8.2 LA / A.8.5 A.4.8
 
-**H20T2A3**: TODO
+**H20T2A3**: A.12.6 A.12.4 A.15.4 A.15.9 A.16.1 
 
 **H20T2A4**: 🚧
 
