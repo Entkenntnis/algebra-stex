@@ -15,6 +15,7 @@ Legende:
 - A-XX-(YY) = Algebra-Skript, Seite XX, Begriff YY
 - Z.XX.YY = Zahlentheorie-Skript (XX.YY)
 - Z-XX-(YY) = Zahlentheorie-Skript, Seite XX, Begriff YY
+- / = Teilaufgabentrenner
 
 ## Tags
 
