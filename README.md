@@ -17,7 +17,6 @@ Legende:
 - Z-XX-(YY) = Zahlentheorie-Skript, Seite XX, Begriff YY
 - `/` = Teilaufgabentrenner
 - `-` = keine Tags
-- `...` = noch zu taggen
 - 🚧 = Aufgabe noch nicht bearbeitet
 
 Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/statistics.txt
@@ -102,44 +101,104 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H20T2A4**: 🚧
 
-**H20T2A5**: TODO
+**H20T2A5**: A.16.9 A.16.13 A.16.12 A.16.3 A.17.5 A.11.9 A.17.8 A.9.1
 
-**H20T3A1**: TODO
+**H20T3A1**: Z.12.1 / - / Z.12.8 Z.10.2 Z.10.11 Z.7.13 Z.8.5 
 
 **H20T3A2**: 🚧
 
-**H20T3A3**: TODO
+**H20T3A3**: - / - / -
 
 **H20T3A4**: 🚧
 
-**H20T3A5**: TODO
+**H20T3A5**: Z.12.9 Z.12.8 / Z.13.1 / A.14.1 / A.17.11 A.11.9 Z.12.9 Z.12.8 A.12.4
 
-**F20T1A1**: TODO
+**F20T1A1**: LA / LA
 
-**F20T1A2**: TODO
+**F20T1A2**: A.10.3 / A.8.2 / A.8.2 A.8.3
 
 **F20T1A3**: 🚧
 
-**F20T1A4**: TODO
+**F20T1A4**: A.14.1 A.18.3 / A.3.9 A.17.8 A.17.9
 
 **F20T1A5**: 🚧
 
-**F20T2A1**: TODO
+**F20T2A1**: LA / LA
 
-**F20T2A2**: TODO
+**F20T2A2**: A.15.3 Z.13.1 / Z.13.7 Z.13.4 Z.13.7
 
 **F20T2A3**: 🚧
 
-**F20T2A4**: TODO
+**F20T2A4**: A.1.11 / - / -
 
 **F20T2A5**: 🚧
 
-**F20T3A1**: TODO
+**F20T3A1**: A.4.11 / A.1.11 / A.4.17 / -
 
-**F20T3A2**: TODO
+**F20T3A2**: Z.9.8 / - / Z.8.5
 
 **F20T3A3**: 🚧
 
 **F20T3A4**: 🚧
 
-**F20T3A5**: TODO
+**F20T3A5**: - / Z.12.9
+
+**H19T1A1**: TODO
+
+**H19T1A2**: TODO
+
+**H19T1A3**: 🚧
+
+**H19T1A4**:  TODO
+
+**H19T1A5**: 🚧
+
+**H19T2A1**: TODO
+
+**H19T2A2**: 🚧
+
+**H19T2A3**: TODO
+
+**H19T2A4**: 🚧
+
+**H19T2A5**: TODO
+
+**H19T3A1**: TODO
+
+**H19T3A2**: TODO
+
+**H19T3A3**: 🚧
+
+**H19T3A4**: TODO
+
+**H19T3A5**: 🚧
+
+**F19T1A1**: TODO
+
+**F19T1A2**: TODO
+
+**F19T1A3**: 🚧
+
+**F19T1A4**: 🚧
+
+**F19T1A5**: TODO
+
+**F19T2A1**: TODO
+
+**F19T2A2**: 🚧
+
+**F19T2A3**: TODO
+
+**F19T2A4**: 🚧
+
+**F19T2A5**: TODO
+
+**F19T3A1**: TODO
+
+**F19T3A2**: TODO
+
+**F19T3A3**: 🚧
+
+**F19T3A4**: TODO
+
+**F19T3A5**: 🚧
