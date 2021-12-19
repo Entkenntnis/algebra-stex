@@ -16,6 +16,8 @@ Legende:
 - Z.XX.YY = Zahlentheorie-Skript (XX.YY)
 - Z-XX-(YY) = Zahlentheorie-Skript, Seite XX, Begriff YY
 - / = Teilaufgabentrenner
+- ... = noch zu taggen
+- 🚧 = Aufgabe noch nicht gearbeitet
 
 ## Tags
 
