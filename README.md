@@ -161,33 +161,33 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H19T2A4**: 🚧
 
-**H19T2A5**: TODO
+**H19T2A5**: A.15.5 / A.13.2 / A.16.6 A.17.10 A.17.5
 
-**H19T3A1**: TODO
+**H19T3A1**: Z.11.6 Z.11.7 Z.11.9 / - / Z.11.9
 
-**H19T3A2**: TODO
+**H19T3A2**: A.4.7 / A.4.8
 
 **H19T3A3**: 🚧
 
-**H19T3A4**: TODO
+**H19T3A4**: A.15.9 A.15.7 / A.11.9
 
 **H19T3A5**: 🚧
 
-**F19T1A1**: TODO
+**F19T1A1**: Z-34-(Euklidischer Algorithmus) / Z.13.7 / - / A.9.9 A.4.16 A.5.12
 
-**F19T1A2**: TODO
+**F19T1A2**: LA A.8.1 / LA A.8.2 / LA A.8.9 A.8.3
 
 **F19T1A3**: 🚧
 
 **F19T1A4**: 🚧
 
-**F19T1A5**: TODO
+**F19T1A5**: Z.12.9 A.12.2 / A.14.1 / A.17.8 A.17.9 Z.12.9 A.11.9
 
-**F19T2A1**: TODO
+**F19T2A1**: - / - / A.1.11 / -
 
 **F19T2A2**: 🚧
 
-**F19T2A3**: TODO
+**F19T2A3**: - / -
 
 **F19T2A4**: 🚧
 
