@@ -143,21 +143,21 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F20T3A5**: - / Z.12.9
 
-**H19T1A1**: TODO
+**H19T1A1**: Z.12.1 / Z.12.9 Z.12.8 / - / A.10.13
 
-**H19T1A2**: TODO
+**H19T1A2**: A.17.10 A.13.2 A.16.3
 
 **H19T1A3**: 🚧
 
-**H19T1A4**:  TODO
+**H19T1A4**:  A.9.9 A.4.16 A.1.13 / A.8.5 A.9.9 A.4.16 A.5.12
 
 **H19T1A5**: 🚧
 
-**H19T2A1**: TODO
+**H19T2A1**: - / -
 
 **H19T2A2**: 🚧
 
-**H19T2A3**: TODO
+**H19T2A3**: A.11.3 A.11.9 A.12.4 A.12.8
 
 **H19T2A4**: 🚧
 
