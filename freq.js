@@ -12,11 +12,8 @@ for (ex of exercises) {
     if (!counter[theo]) counter[theo] = 0
     counter[theo]++
   }
-  console.log(theos.size)
   if (theos.size > 0 || ex.includes('-')) {
     doneExerciseCounter++
-  } else {
-    
   }
 }
 
