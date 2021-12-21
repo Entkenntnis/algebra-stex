@@ -205,17 +205,17 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H18T1A1**: 🚧
 
-**H18T1A2**: TODO
+**H18T1A2**: A.4.7 A.4.5 / A.4.5 A.4.7 / A.4.13 A.2.5
 
 **H18T1A3**: 🚧
 
-**H18T1A4**: TODO
+**H18T1A4**: A.16.9 A.11.9 A.17.5 A.9.2 / A.16.4 A.8.5 A.8.2
 
-**H18T1A5**: TODO
+**H18T1A5**: A.11.2 A.15.1 / - / A.12.4 A.14.1
 
 **H18T2A1**: 🚧
 
-**H18T2A2**: TODO
+**H18T2A2**: LA
 
 **H18T2A3**: TODO
 
