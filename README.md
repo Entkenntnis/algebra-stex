@@ -257,68 +257,128 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F18T3A2**: 🚧
 
-**F18T3A3**: TODO
+**F18T3A3**: A.9.10 A.4.10 / A.9.3 A.9.10 A.4.16 A.5.12
 
 **F18T3A4**: 🚧
 
-**F18T3A5**: TODO
+**F18T3A5**: A.14.1 / A.11.9 Z.12.9 Z.12.8 / A.16.9 / A-108-(K-Automorphismus) A.17.5
 
-**H17T1A1**: 
+**H17T1A1**: 🚧
 
-**H17T1A2**: 
+**H17T1A2**: TODO
 
-**H17T1A3**: 
+**H17T1A3**: TODO
 
-**H17T1A4**: 
+**H17T1A4**: 🚧
 
-**H17T1A5**: 
+**H17T1A5**: TODO
 
-**H17T2A1**: 
+**H17T2A1**: TODO
 
-**H17T2A2**: 
+**H17T2A2**: TODO
 
-**H17T2A3**: 
+**H17T2A3**: 🚧
 
-**H17T2A4**: 
+**H17T2A4**: TODO
 
-**H17T2A5**: 
+**H17T2A5**: 🚧
 
-**H17T3A1**: 
+**H17T3A1**: TODO
 
-**H17T3A2**: 
+**H17T3A2**: TODO
 
-**H17T3A3**: 
+**H17T3A3**: TODO
 
-**H17T3A4**: 
+**H17T3A4**: 🚧
 
-**H17T3A5**: 
+**H17T3A5**: TODO
 
-**F17T1A1**: 
+**F17T1A1**: 🚧
 
-**F17T1A2**: 
+**F17T1A2**: TODO
 
-**F17T1A3**: 
+**F17T1A3**: TODO
 
-**F17T1A4**: 
+**F17T1A4**: 🚧
 
-**F17T1A5**: 
+**F17T1A5**: TODO
 
-**F17T2A1**: 
+**F17T2A1**: TODO
 
-**F17T2A2**: 
+**F17T2A2**: 🚧
 
-**F17T2A3**: 
+**F17T2A3**: TODO
 
-**F17T2A4**: 
+**F17T2A4**: TODO
 
-**F17T2A5**: 
+**F17T2A5**: 🚧
 
-**F17T3A1**: 
+**F17T3A1**: 🚧
 
-**F17T3A2**: 
+**F17T3A2**: TODO
 
-**F17T3A3**: 
+**F17T3A3**: TODO
 
-**F17T3A4**: 
+**F17T3A4**: 🚧
 
-**F17T3A5**: 
+**F17T3A5**: TODO
+
+**H16T1A1**: TODO
+
+**H16T1A2**: 🚧
+
+**H16T1A3**: TODO
+
+**H16T1A4**: 🚧
+
+**H16T1A5**: TODO
+
+**H16T2A1**: TODO
+
+**H16T2A2**: TODO
+
+**H16T2A3**: 🚧
+
+**H16T2A4**: TODO
+
+**H16T2A5**: 🚧
+
+**H16T3A1**: TODO
+
+**H16T3A2**: TODO
+
+**H16T3A3**: 🚧
+
+**H16T3A4**: TODO
+
+**H16T3A5**: 🚧
+
+**F16T1A1**: TODO
+
+**F16T1A2**: TODO
+
+**F16T1A3**: TODO
+
+**F16T1A4**: TODO
+
+**F16T1A5**: 🚧
+
+**F16T2A1**: 🚧
+
+**F16T2A2**: TODO
+
+**F16T2A3**: TODO
+
+**F16T2A4**: 🚧
+
+**F16T2A5**: TODO
+
+**F16T3A1**: TODO
+
+**F16T3A2**: 🚧
+
+**F16T3A3**: TODO
+
+**F16T3A4**: 🚧
+
+**F16T3A5**: TODO
