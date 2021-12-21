@@ -239,21 +239,21 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F18T1A3**: 🚧
 
-**F18T1A4**: TODO
+**F18T1A4**: Z.12.9 Z.12.8 / Z.5.8 / A.17.10 A.11.9 A.9.2
 
-**F18T1A5**: TODO
+**F18T1A5**: -
 
-**F18T2A1**: TODO
+**F18T2A1**: Z.2.5 / A.4.10 / Z.12.1 / LA
 
-**F18T2A2**: TODO
+**F18T2A2**: Z.12.1 / - / A.16.9 A.16.3
 
-**F18T2A3**: TODO
+**F18T2A3**: Z.7.13 Z.10.11 / Z.7.13 Z.10.11 / Z.8.5 Z.7.10 Z-25-(Auswertungshomomorphismus)
 
 **F18T2A4**: 🚧
 
-**F18T2A5**: TODO
+**F18T2A5**: A.8.12 / A.10.28 / A.4.8
 
-**F18T3A1**: TODO
+**F18T3A1**: Z.9.4 / LA / A.10.18 / LA
 
 **F18T3A2**: 🚧
 
