@@ -295,13 +295,13 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F17T1A1**: 🚧
 
-**F17T1A2**: TODO
+**F17T1A2**: - / Z.12.9 / A.12.3 A.12.4 A.11.9 / A.14.1 A.17.7
 
-**F17T1A3**: TODO
+**F17T1A3**: A.9.9 A-34-(Kerne von Homomorphismen) A.8.11 A.4.5 A.4.8 A.9.10
 
 **F17T1A4**: 🚧
 
-**F17T1A5**: TODO
+**F17T1A5**: LA A.16.10 / LA A.12.4 A.14.1 A.15.9
 
 **F17T2A1**: TODO
 
