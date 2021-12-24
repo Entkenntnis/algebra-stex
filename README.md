@@ -265,21 +265,21 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H17T1A1**: 🚧
 
-**H17T1A2**: TODO
+**H17T1A2**: A.15.5 A.15.6 / -
 
-**H17T1A3**: TODO
+**H17T1A3**: A.2.10 A.5.10 Z.9.1 A.10.27 
 
 **H17T1A4**: 🚧
 
-**H17T1A5**: TODO
+**H17T1A5**: Z.4.4 Z.11.3 Z.12.9 Z.12.8
 
-**H17T2A1**: TODO
+**H17T2A1**: LA / LA
 
-**H17T2A2**: TODO
+**H17T2A2**: A.8.2 A.4.12 / A.8.3 / A.8.5
 
 **H17T2A3**: 🚧
 
-**H17T2A4**: TODO
+**H17T2A4**: A.14.1 / A.18.3 / A.17.7 A.12.4 Z.12.9
 
 **H17T2A5**: 🚧
 
