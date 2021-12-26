@@ -353,32 +353,32 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H16T3A5**: 🚧
 
-**F16T1A1**: TODO
+**F16T1A1**: LA
 
-**F16T1A2**: TODO
+**F16T1A2**: -
 
-**F16T1A3**: TODO
+**F16T1A3**: A.4.19 / - / - / A.4.10
 
-**F16T1A4**: TODO
+**F16T1A4**: Z-64-(Normfunktion) / Z-64-(Normfunktion) A.10.8 / Z.10.4
 
 **F16T1A5**: 🚧
 
 **F16T2A1**: 🚧
 
-**F16T2A2**: TODO
+**F16T2A2**: Z.6.12 / Z.7.10 / A.3.7
 
-**F16T2A3**: TODO
+**F16T2A3**: A.14.1 / Z.12.9 A.12.4 A.11.9
 
 **F16T2A4**: 🚧
 
-**F16T2A5**: TODO
+**F16T2A5**: LA / LA Z.10.2
 
-**F16T3A1**: TODO
+**F16T3A1**: LA / LA
 
 **F16T3A2**: 🚧
 
-**F16T3A3**: TODO
+**F16T3A3**: A.3.9 / A.4.13
 
 **F16T3A4**: 🚧
 
-**F16T3A5**: TODO
+**F16T3A5**: - / - / A.11.9 Z.12.9 A.12.4 / A.11.9 A.16.2 / A.12.4 A.11.9 A.17.7
