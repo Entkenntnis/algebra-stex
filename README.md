@@ -315,7 +315,7 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F17T3A1**: 🚧
 
-**F17T3A2**: A.9.9 A.10.24 / A.10.32 A-34-(Kerne von Homomorphismen) A.8.2 / ...
+**F17T3A2**: A.9.9 A.10.24 / A.10.32 A-34-(Kerne von Homomorphismen) A.8.2 / A.8.2
 
 **F17T3A3**: Z.2.2
 
@@ -345,11 +345,11 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H16T3A1**: LA
 
-**H16T3A2**: A.15.4 Z.2.2 / ... / ...
+**H16T3A2**: A.15.4 Z.2.2 / A.15.4 A.1.11 / A.1.11 Z.9.8
 
 **H16T3A3**: 🚧
 
-**H16T3A4**: TODO
+**H16T3A4**: A.2.4 / A.2.4 / A.2.4
 
 **H16T3A5**: 🚧
 
