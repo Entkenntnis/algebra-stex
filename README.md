@@ -361,7 +361,7 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F16T1A4**: Z-64-(Normfunktion) / Z-64-(Normfunktion) A.10.8 / Z.10.4
 
-**F16T1A5**: 🚧
+**F16T1A5**: Z.12.3 Z.12.9 / A.18.3
 
 **F16T2A1**: 🚧
 
