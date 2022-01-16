@@ -293,33 +293,33 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H17T3A5**: A.14.1 A.12.4 A.11.9
 
-**F17T1A1**: 🚧
+**F17T1A1**: A.17.2 / A.13.2 / Z-64-(Normfunktion) / Z.10.5
 
 **F17T1A2**: - / Z.12.9 / A.12.3 A.12.4 A.11.9 / A.14.1 A.17.7
 
 **F17T1A3**: A.9.9 A-34-(Kerne von Homomorphismen) A.8.11 A.4.5 A.4.8 A.9.10
 
-**F17T1A4**: 🚧
+**F17T1A4**: Z.9.5 A.4.8 / -
 
 **F17T1A5**: LA A.16.10 / LA A.12.4 A.14.1 A.15.9
 
 **F17T2A1**: A.9.9 A.3.7
 
-**F17T2A2**: 🚧
+**F17T2A2**: A.3.8 A.3.3 / - / Z.9.8
 
 **F17T2A3**: - / Z.9.3 / A.4.21
 
 **F17T2A4**: Z.12.9 A.12.4 / -
 
-**F17T2A5**: 🚧
+**F17T2A5**: A.9.9 A.4.16 A.17.9 A.9.10 A.17.7
 
-**F17T3A1**: 🚧
+**F17T3A1**: LA A.15.5 A.1.11 A.2.1 A.11.2
 
 **F17T3A2**: A.9.9 A.10.24 / A.10.32 A-34-(Kerne von Homomorphismen) A.8.2 / A.8.2
 
 **F17T3A3**: Z.2.2
 
-**F17T3A4**: 🚧
+**F17T3A4**: Z.5.9
 
 **F17T3A5**: Z.9.3 A.4.8
 
