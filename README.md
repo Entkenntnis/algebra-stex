@@ -325,11 +325,11 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H16T1A1**: A.4.24 A.7.7
 
-**H16T1A2**: 🚧
+**H16T1A2**: LA A.12.3
 
 **H16T1A3**: - / Z.6.10 Z.7.13
 
-**H16T1A4**: 🚧
+**H16T1A4**: - / Z.5.3 / -
 
 **H16T1A5**: A.17.10 A.17.11 A.15.3
 
@@ -337,21 +337,21 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H16T2A2**: A.6.3 A.6.2 / A.6.1 A.1.13
 
-**H16T2A3**: 🚧
+**H16T2A3**: LA / LA / LA / LA
 
 **H16T2A4**: A.14.1 / Z.12.9 A.12.4 A.12.3 / A.16.1 A.17.9 / A.17.9 A.11.9 A.17.8
 
-**H16T2A5**: 🚧
+**H16T2A5**: Z-34-(Euklidischer Algorithmus) A.8.5
 
 **H16T3A1**: LA
 
 **H16T3A2**: A.15.4 Z.2.2 / A.15.4 A.1.11 / A.1.11 Z.9.8
 
-**H16T3A3**: 🚧
+**H16T3A3**: A.9.9 / A.9.10 / A.9.9 A.8.1 / A.8.6 A.4.8 A.4.12
 
 **H16T3A4**: A.2.4 / A.2.4 / A.2.4
 
-**H16T3A5**: 🚧
+**H16T3A5**: Z.13.7 A.18.3 A.14.1 Z.12.9 A.10.5
 
 **F16T1A1**: LA
 
