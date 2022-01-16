@@ -263,13 +263,13 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **F18T3A5**: A.14.1 / A.11.9 Z.12.9 Z.12.8 / A.16.9 / A-108-(K-Automorphismus) A.17.5
 
-**H17T1A1**: 🚧
+**H17T1A1**: Z.9.3
 
 **H17T1A2**: A.15.5 A.15.6 / -
 
 **H17T1A3**: A.2.10 A.5.10 Z.9.1 A.10.27 
 
-**H17T1A4**: 🚧
+**H17T1A4**: A.12.4 / A.12.3 / Z.10.11
 
 **H17T1A5**: Z.4.4 Z.11.3 Z.12.9 Z.12.8
 
@@ -277,11 +277,11 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H17T2A2**: A.8.2 A.4.12 / A.8.3 / A.8.5
 
-**H17T2A3**: 🚧
+**H17T2A3**: Z.9.3 / A.12.4 / Z.12.10 Z.12.8
 
 **H17T2A4**: A.14.1 / A.18.3 / A.17.7 A.12.4 Z.12.9
 
-**H17T2A5**: 🚧
+**H17T2A5**: A.13.2
 
 **H17T3A1**: A.9.9 / A.7.7 A.8.17
 
@@ -289,7 +289,7 @@ Statistische Auswertung: https://github.com/Entkenntnis/algebra-stex/blob/main/s
 
 **H17T3A3**: Z.2.4
 
-**H17T3A4**: 🚧
+**H17T3A4**: Z.12.9 / A.14.1 / A.14.1 A.17.10 A.11.9 A.17.8
 
 **H17T3A5**: A.14.1 A.12.4 A.11.9
 
